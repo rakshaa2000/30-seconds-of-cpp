@@ -11,4 +11,4 @@
     int num_items1 = std::count(v.begin(), v.end(), target1);
     std::cout << "number: " << target1 << " count: " << num_items1 << '\n';
 ```
-**[Run Code](https://rextester.com/PSP35316)**
+**[See Sample code](../snippets/algorithm/count.cpp)****[Run Code](https://rextester.com/PSP35316)**
